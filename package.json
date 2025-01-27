@@ -1,6 +1,6 @@
 {
   "name": "ab-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "form-data": "4.0.*"
   }
